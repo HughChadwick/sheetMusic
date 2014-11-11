@@ -1,0 +1,3 @@
+abc_homepage:
+    path:     /abc/{name}
+    defaults: { _controller: AbcBundle:Default:index }
